@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+
+html,body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background: radial-gradient(142% 91% at 83% 7%, #041313FF 1%, #FF000000 99%);
+  background: radial-gradient(142% 91% at 152% 84%, rgb(1, 64, 100) 0%, #070415FF 100%)  ;
+}

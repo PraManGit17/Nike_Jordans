@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+
+.content-container {
+  height: calc(100vh - 100px); 
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  color: white;
+}
+
+.stroke-text {
+  -webkit-text-stroke: 2px white; /* White stroke effect */
+  color: transparent; /* Hides the fill color */
+}
+
+.glow-text {
+  color: white;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 
+               0 0 20px rgba(59, 113, 251, 0.5), 
+               0 0 30px rgba(58, 106, 252, 0.3);
+}

@@ -1,0 +1,6 @@
+#header {
+  background: rgba(17, 4, 101, 0); /* Transparent background */
+  backdrop-filter: blur(100px); /* Glass effect */
+  -webkit-backdrop-filter: blur(10px);
+
+}
