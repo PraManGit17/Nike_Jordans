@@ -10,5 +10,6 @@ html,body {
   height: 100%;
   width: 100%;
   background: radial-gradient(142% 91% at 83% 7%, #041313FF 1%, #FF000000 99%);
-  background: radial-gradient(142% 91% at 152% 84%, rgb(1, 64, 100) 0%, #070415FF 100%)  ;
+  background: radial-gradient(142% 91% at 152% 84%, rgb(100, 1, 1) 0%, rgb(21, 4, 4) 100%)  ;
+
 }
